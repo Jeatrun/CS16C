@@ -64,5 +64,8 @@
       "binaryPath": "f:\\Coding\\CS61C\\lab\\lab02\\bit_ops",
       "binaryArgs": []
     }
-  ]
+  ],
+  "files.associations": {
+    "type_traits": "c"
+  }
 }
